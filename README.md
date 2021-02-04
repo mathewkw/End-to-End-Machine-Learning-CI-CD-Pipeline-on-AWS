@@ -16,7 +16,7 @@
 3. Automatically start a training/deployment job by uploading data to S3.
 </br></br>
 4. Run A/B tests and more. 
-</br></br></br>
+</br></br>
 
 This also can be considered a reference architecture that can be used as an inspiration to create your own solution!
 
