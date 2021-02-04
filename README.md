@@ -22,3 +22,7 @@
 
 This also can be considered a reference architecture that can be used as an inspiration to create your own solution!
 
+
+Region| Launch
+------|-----
+US East (N. Virginia) | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/CICDTemplate.template)
