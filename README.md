@@ -2,10 +2,10 @@
 
 ## Continuous Integration and Continous Depoloyment
 
-<img align="left" src="imgs/ezgif-1-e3d1c499b26c.gif">
+<img align="right" src="imgs/ezgif-1-e3d1c499b26c.gif">
 MLOps or Machine Learning Operations is a concept that can help you:implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
 
-</br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br>
 
 In this template you will:
 Create/operate an automated ML pipeline using a an AWS CI/CD tool CodePipeline, to orchestrate the ML workflow. 
