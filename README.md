@@ -40,7 +40,7 @@ Region| Launch
 ------|-----
 US East 1 | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/CICDTemplate.template)
 
-This solution can be broken down into the following steps: 
+This solution can be conceptually broken down into the following steps: 
 
 1. An ETL process or the ML Developer, prepares a new dataset for training the model and copies it into an S3 Bucket;
 2. CodePipeline listens to this S3 Bucket, calls a Lambda function for start training a job in Sagemaker;
