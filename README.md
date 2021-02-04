@@ -2,13 +2,13 @@
 
 ## Continuous Integration and Continous Depoloyment
 
-<img align="left" src="imgs/ezgif-1-e3d1c499b26c.gif">
+<img align="left" src="imgs/ezgif-3-a13349425ee2.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
 **MLOps or Machine Learning Operations** is a concept that can help you implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
 </br></br>
-<img align="left" src="imgsezgif-3-a13349425ee2.gif">
+<img align="left" src="ezgif-3-620bafe2c256.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 **With this solution template you can:**
