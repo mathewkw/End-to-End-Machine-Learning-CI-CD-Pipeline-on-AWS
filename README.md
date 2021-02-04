@@ -48,13 +48,12 @@ This solution can be broken down into the following steps:
 6. After finishing the deployment in DEV/QA, CodePipeline awaits for a manual approval
 7. An approver approves or rejects the deployment. If rejected the pipeline stops here; If approved it goes to the next stage;
 8. CodePipeline calls CloudFormation to deploy a model into production. This time, the endpoint will count with an AutoScaling policy for HA and Elasticity.
-9. Done.
 
 ### Crisp DM
 
 <img align="left" src="imgs/crisp.png">
 
-It is important to mention that the process above was based on an Industry process for Data Mining and Machine Learning called [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining).
+It is important to mention that the process above is based on industry standard process for Data Mining and Machine Learning called [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining).
 
 CRISP-DM stands for “Cross Industry Standard Process – Data Mining” and is an excellent skeleton to build a data science project around.
 
