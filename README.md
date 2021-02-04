@@ -12,7 +12,7 @@
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 **With this solution template you can:**
-</br></br>
+</br>
 1. Create/operate an automated ML pipeline using a a CI/CD tool CodePipeline, to orchestrate the ML workflow.
 </br></br>
 2. Create a Docker container from scratch with your own algorithm.
