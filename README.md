@@ -6,7 +6,7 @@
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
-**MLOps or Machine Learning Operations** is a concept that can help you:implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
+**MLOps or Machine Learning Operations** is a concept that can help you implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
 </br></br>
 <img align="left" src="imgs/ezgif-3-620bafe2c256.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
