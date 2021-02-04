@@ -3,7 +3,7 @@
 ## Continuous Integration and Continous Depoloyment
 
 <img align="left" src="imgs/ezgif-1-e3d1c499b26c.gif">
-MLOps or Machine Learning Operations is a concept that can help you:implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
+**MLOps or Machine Learning Operations** is a concept that can help you:implement CI/CD applied to machine learning and create an automated infrastructure to support your AI processes.
 
 </br></br></br></br></br></br></br></br>
 
@@ -17,5 +17,6 @@ MLOps or Machine Learning Operations is a concept that can help you:implement CI
 </br></br>
 4. Run A/B tests and more. 
 </br></br></br>
+
 This also can be considered a reference architecture that can be used as an inspiration to create your own solution!
 
