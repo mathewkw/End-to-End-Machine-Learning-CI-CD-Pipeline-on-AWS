@@ -20,7 +20,7 @@
 4. Run A/B tests and more. 
 </br></br>
 
-This also can be considered a reference architecture that can be used as an inspiration to create your own solution!
+**This also can be implemented a reference architecture that can be used as an inspiration to create your own solution!**
 
 All required components of the pipeline including Lambda functions to automatically run our code are including in the CloudFormation template below.
 The template creates the following services and infrastructure:
@@ -31,6 +31,8 @@ The template creates the following services and infrastructure:
 * Amazon ECR
 * Amazon SageMaker
 * AWS CloudFormation
+
+Just click the launch stack and complete AWS steps to automatically build your infrastructure as code ML Ops pipeline!
 
 Region| Launch
 ------|-----
