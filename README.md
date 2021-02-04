@@ -24,7 +24,7 @@
 
 **This also can be implemented a reference architecture that can be used as an inspiration to create your own solution!**
 
-All required components of the pipeline including Lambda functions to automatically run our code are including in the CloudFormation template below.
+All required components of the pipeline including Lambda functions to automatically run our code are included in the CloudFormation template below.
 The template creates the following services and infrastructure:
 * Jupyter Notebook
 * CodePipeline
