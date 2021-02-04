@@ -22,7 +22,16 @@
 
 This also can be considered a reference architecture that can be used as an inspiration to create your own solution!
 
+All required components of the pipeline including Lambda functions to automatically run our code are including in the CloudFormation template below.
+The template creates the following services and infrastructure:
+* Jupyter Notebook
+* AWS CodePipeline
+* AWS CodeCommit
+* AWS CodeBuild
+* Amazon ECR
+* Amazon SageMaker
+* AWS CloudFormation
 
 Region| Launch
 ------|-----
-US East (N. Virginia) | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/CICDTemplate.template)
+US East 1 | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/CICDTemplate.template)
