@@ -34,7 +34,7 @@ The template creates the following services and infrastructure:
 * SageMaker
 * CloudFormation
 
-Just click the launch stack and complete AWS steps to automatically build your infrastructure as code ML Ops pipeline!
+**Just click the launch stack and complete AWS steps to automatically build your infrastructure as code ML Ops pipeline!**
 
 Region| Launch
 ------|-----
