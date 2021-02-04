@@ -21,7 +21,7 @@
 </br></br>
 
 <img align="left" src="imgs/ezgif-3-620bafe2c256.gif">
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 **This also can be implemented a reference architecture that can be used as an inspiration to create your own solution!**
 
