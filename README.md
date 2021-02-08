@@ -41,6 +41,8 @@ Region| Launch
 ------|-----
 US East 1 | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/m7.yml)
 
+Once Launched, you can navigate to the AWS sagemaker dashboard and open the created Jupyter Notebook Instance to start the ML workflow.
+
 This solution can be conceptually broken down into the following steps: 
 
 1. An ETL process or the ML Developer, prepares a new dataset for training the model and copies it into an S3 Bucket;
