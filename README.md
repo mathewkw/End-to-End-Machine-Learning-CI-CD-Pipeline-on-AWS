@@ -39,7 +39,7 @@ The template creates the following services and infrastructure:
 
 Region| Launch
 ------|-----
-US East 1 | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/CICDTemplate.template)
+US East 1 | [![Launch MLOps solution in us-east-1](imgs/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=CICDstack&templateURL=https://demoai-solutions-pipeline.s3.us-east-2.amazonaws.com/m7.yml)
 
 This solution can be conceptually broken down into the following steps: 
 
