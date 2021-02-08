@@ -23,7 +23,7 @@
 <img align="left" src="imgs/ezgif-3-620bafe2c256.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-**This also can be implemented a reference architecture that can be used as an inspiration to create your own solution!**
+**This also can be implemented a reference architecture to adapt to your own solution.**
 
 All required components of the pipeline including Lambda functions to automatically run our code are included in the CloudFormation template below.
 The template creates the following services and infrastructure:
