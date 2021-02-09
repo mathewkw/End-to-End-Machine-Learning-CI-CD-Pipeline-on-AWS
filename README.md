@@ -17,7 +17,7 @@
 </br></br>
 3. Automatically start a training/deployment job by uploading data to S3.
 </br></br>
-4. Run A/B tests and more. 
+4. Run A/B tests to compare trained models based on performance metrics. 
 </br></br>
 
 <img align="left" src="imgs/ezgif-3-620bafe2c256.gif">
