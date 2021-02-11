@@ -21,7 +21,7 @@
 </br></br>
 
 <img align="left" src="imgs/pipelineapproval.gif">
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 **This also can be implemented a reference architecture to adapt to your own solution.**
 
