@@ -20,7 +20,7 @@
 4. Run A/B tests to compare trained models based on performance metrics. 
 </br></br>
 
-<img align="left" src="imgs/ezgif-3-620bafe2c256.gif">
+<img align="left" src="imgs/pipelineapproval.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 **This also can be implemented a reference architecture to adapt to your own solution.**
