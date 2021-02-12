@@ -12,13 +12,13 @@
 **With this solution template you can:**
 </br>
 1. Create/operate an automated ML pipeline using a a CI/CD tool CodePipeline, to orchestrate the ML workflow.
-</br></br>
+
 2. Create a Docker container from scratch with your own algorithm.
-</br></br>
+
 3. Automatically start a training/deployment job by uploading data to S3.
-</br></br>
+
 4. Run A/B tests to compare trained models based on performance metrics. 
-</br></br>
+
 
 <img align="left" src="imgs/pipelineapproval.gif">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
